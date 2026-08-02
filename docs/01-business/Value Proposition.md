@@ -1,5 +1,12 @@
 # FixNest Value Proposition
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 FixNest is a trusted Home Ecosystem that makes home maintenance safer, easier, faster, and more reliable by combining verified professionals, transparent processes, intelligent technology, and exceptional customer support into one unified platform.
 
 ## For Homeowners and Tenants

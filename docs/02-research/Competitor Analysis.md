@@ -1,5 +1,12 @@
 # FixNest Competitor Analysis
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 ## Purpose
 
 This document will compare FixNest with direct, indirect, and substitute solutions in the home services market.

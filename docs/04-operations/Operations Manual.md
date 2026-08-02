@@ -1,5 +1,12 @@
 # FixNest Operations Manual v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Operations  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This manual explains how FixNest should operate its home services business from customer request to service completion, quality control, reporting, and continuous improvement.

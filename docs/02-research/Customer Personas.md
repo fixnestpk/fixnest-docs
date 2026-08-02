@@ -1,5 +1,12 @@
 # FixNest Customer Personas
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 ## Primary Personas
 
 1. Busy homeowner or tenant who needs fast, reliable repairs.

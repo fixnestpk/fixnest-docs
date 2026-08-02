@@ -1,5 +1,12 @@
 # FixNest Documentation Roadmap
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 This roadmap lists the core business documents FixNest should create before and during execution.
 
 ## Foundation Documents
@@ -55,13 +62,13 @@ This roadmap lists the core business documents FixNest should create before and 
 
 ## Recommended Creation Order
 
-1. Business Blueprint.
-2. Business Requirements Document.
-3. Customer Journey Map.
-4. Service SOPs.
-5. Technician SOPs.
-6. Pricing Strategy.
-7. Operations Manual.
-8. Website Requirements Document.
-9. Marketing Strategy.
-10. Financial Plan.
+1. README.
+2. FixNest Manifesto.
+3. Business Blueprint.
+4. Business Requirements Document (BRD).
+5. Business Model Canvas.
+6. Customer Personas.
+7. Service Blueprint.
+8. Operations Manual.
+9. Platform Architecture.
+10. Product Requirements Document (PRD).

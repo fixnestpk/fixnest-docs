@@ -1,5 +1,12 @@
 # FixNest Technician SOPs v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Operations  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This document defines the behavior, safety, service quality, communication, and reporting standards expected from every FixNest technician.

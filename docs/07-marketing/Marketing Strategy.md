@@ -1,5 +1,12 @@
 # FixNest Marketing Strategy v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Marketing  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This document defines how FixNest should attract, convert, retain, and grow customers while building trust as Pakistan's home ecosystem platform.
