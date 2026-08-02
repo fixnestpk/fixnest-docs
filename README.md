@@ -71,15 +71,25 @@ Complete Home Ecosystem
 
 ---
 
-## Documentation
+## Documentation Structure
 
-/business
-/operations
-/marketing
-/branding
-/platform
-/research
-/sops
+FixNest documentation is organized for founders, operations, product, marketing, finance, legal, and future development teams.
+
+- `docs/01-business/` — vision, mission, value proposition, business blueprint, and business model canvas.
+- `docs/02-research/` — market research, competitor analysis, personas, and customer journey research.
+- `docs/03-brand/` — brand guide, logo assets, and color guidance.
+- `docs/04-operations/` — operations manual, service SOPs, technician SOP, and customer SOP.
+- `docs/05-platform/` — BRD, functional requirements, and user stories.
+- `docs/06-marketing/` — marketing strategy and growth documents.
+- `docs/07-finance/` — pricing strategy and financial planning.
+- `docs/08-legal/` — future legal, compliance, policy, and contract documents.
+- `docs/roadmap/` — documentation and development roadmap materials.
+- `assets/` — reusable brand, document, and marketing assets.
+- `diagrams/` — architecture, service, process, and journey diagrams.
+
+## Recommended Next Document
+
+The Business Requirements Document (`docs/05-platform/BRD.md`) is the next source-of-truth document for FixNest. It should define exactly what FixNest is, who it serves, what it will launch first, what is out of scope, how bookings work, how exceptions are handled, what data is stored, how professionals are verified, and what makes FixNest different.
 
 ---
 
