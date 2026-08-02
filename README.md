@@ -56,10 +56,10 @@ FixNest documentation is organized using numbered sections so the knowledge base
 - `docs/03-brand/` — brand guide, logo assets, and color guidance.
 - `docs/04-operations/` — operations manual, service SOPs, technician SOP, and customer SOP.
 - `docs/05-product/` — BRD, future PRD, functional requirements, features, and user stories.
-- `docs/06-technology/` — future architecture, APIs, database, infrastructure, and coding standards.
+- `docs/06-technology/` — technology strategy, future architecture, APIs, database, infrastructure, and coding standards.
 - `docs/07-marketing/` — marketing strategy, content strategy, launch strategy, and growth documents.
 - `docs/08-finance/` — pricing strategy, financial plan, forecasts, and unit economics.
-- `docs/09-legal/` — future legal, compliance, policy, and contract documents.
+- `docs/09-legal/` — legal planning, compliance, policy, privacy, risk, and contract documents.
 - `docs/10-roadmap/` — documentation and development roadmap materials.
 - `assets/` — reusable brand, document, and marketing assets.
 - `diagrams/` — architecture, service, process, and journey diagrams.
