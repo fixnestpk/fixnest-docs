@@ -1,5 +1,12 @@
 # FixNest Business Blueprint v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Executive Summary
 
 FixNest is a trusted Home Ecosystem platform for Pakistan that connects homeowners with verified professionals, reliable home services, and quality home-related products through one unified platform.

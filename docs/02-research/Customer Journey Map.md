@@ -1,5 +1,12 @@
 # FixNest Customer Journey Map v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This Customer Journey Map defines how homeowners experience FixNest from the moment they discover the brand through booking, technician assignment, service completion, payment, support, repeat booking, and future preventive maintenance.

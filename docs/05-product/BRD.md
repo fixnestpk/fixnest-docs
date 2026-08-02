@@ -1,5 +1,12 @@
 # FixNest Business Requirements Document v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Product  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This Business Requirements Document defines the foundation for FixNest as a trusted Home Ecosystem platform. It explains what FixNest is, who it serves, what problems it solves, what features are required, and how the business should evolve across launch, growth, and platform phases.

@@ -1,5 +1,12 @@
 # FixNest Vision
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 To become Pakistan's most trusted Home Ecosystem by providing every essential home service, home improvement solution, and home-related product through one reliable platform.
 
 ## Vision Principles

@@ -1,5 +1,12 @@
 # FixNest Pricing Strategy v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Finance  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This document defines the pricing approach FixNest should use to balance customer trust, technician earnings, operational sustainability, and business profitability.

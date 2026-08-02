@@ -1,5 +1,12 @@
 # FixNest Website Requirements Document v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Product  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This document defines the requirements for the FixNest website. The website should introduce the brand, generate service bookings, build trust, educate homeowners, and create a foundation for future platform features.

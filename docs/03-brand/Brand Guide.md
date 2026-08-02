@@ -1,5 +1,12 @@
 # FixNest Brand Guide
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Brand  
+Last Updated: 2026-08-02
+
+---
+
 ## Brand Positioning
 
 FixNest is Pakistan's trusted Home Ecosystem for verified home services, reliable support, transparent processes, and future home-related products.

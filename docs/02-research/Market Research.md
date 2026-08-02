@@ -1,5 +1,12 @@
 # FixNest Market Research
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 ## Purpose
 
 This document will capture research about home repair, maintenance, and home services demand in Pakistan.

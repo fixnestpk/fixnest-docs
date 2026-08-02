@@ -1,5 +1,12 @@
 # FixNest Financial Plan v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Finance  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This document defines the initial financial planning framework for FixNest. It supports launch budgeting, revenue planning, cost control, unit economics, and future fundraising preparation.

@@ -1,5 +1,12 @@
 # FixNest User Stories
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Product  
+Last Updated: 2026-08-02
+
+---
+
 ## Homeowner Stories
 
 - As a homeowner, I want to request a home service so that I can get help without searching for random technicians.

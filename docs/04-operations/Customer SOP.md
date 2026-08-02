@@ -1,5 +1,12 @@
 # FixNest Customer SOP
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Operations  
+Last Updated: 2026-08-02
+
+---
+
 ## Purpose
 
 This SOP defines how FixNest should communicate with customers across booking, confirmation, service delivery, payment, complaints, refunds, and follow-up.

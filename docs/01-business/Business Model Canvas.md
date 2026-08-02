@@ -1,5 +1,12 @@
 # FixNest Business Model Canvas
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Founders  
+Last Updated: 2026-08-02
+
+---
+
 ## Customer Segments
 
 - Homeowners, tenants, families, working professionals, small offices, and property managers.

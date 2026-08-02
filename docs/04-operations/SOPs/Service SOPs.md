@@ -1,5 +1,12 @@
 # FixNest Service SOPs v1.0
 
+Version: 0.1.0  
+Status: Draft  
+Owner: Operations  
+Last Updated: 2026-08-02
+
+---
+
 ## 1. Purpose
 
 This document defines the standard service workflows FixNest should follow for customer bookings, technician assignment, service completion, invoicing, follow-up, complaints, and quality control.
