@@ -56,9 +56,11 @@ This index is the documentation dashboard for FixNest. It shows what exists, whe
 | [Business Requirements Document](05-product/BRD.md) | Draft | Product | 0.1.0 | 2026-08-02 |
 | [Functional Requirements](05-product/Functional%20Requirements.md) | Draft | Product | 0.1.0 | 2026-08-02 |
 | [User Stories](05-product/User%20Stories.md) | Draft | Product | 0.1.0 | 2026-08-02 |
+| [Technology Strategy](06-technology/Technology%20Strategy.md) | Draft | Technology | 0.1.0 | 2026-08-02 |
 | [Marketing Strategy](07-marketing/Marketing%20Strategy.md) | Draft | Marketing | 0.1.0 | 2026-08-02 |
 | [Pricing Strategy](08-finance/Pricing%20Strategy.md) | Draft | Finance | 0.1.0 | 2026-08-02 |
 | [Financial Plan](08-finance/Financial%20Plan.md) | Draft | Finance | 0.1.0 | 2026-08-02 |
+| [Legal and Compliance Plan](09-legal/Legal%20Compliance%20Plan.md) | Draft | Legal | 0.1.0 | 2026-08-02 |
 | [Documentation Roadmap](10-roadmap/Documentation%20Roadmap.md) | Draft | Founders | 0.1.0 | 2026-08-02 |
 
 ## Recommended Build Sequence

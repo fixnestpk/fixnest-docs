@@ -38,6 +38,7 @@ This roadmap lists the core business documents FixNest should create before and 
 5. Annual Maintenance Contract Plan.
 6. Financial Plan.
 7. Unit Economics Model.
+8. Legal and Compliance Plan.
 
 ## Product and Technology Documents
 
@@ -49,6 +50,7 @@ This roadmap lists the core business documents FixNest should create before and 
 6. AI Assistant Requirements.
 7. Cost Estimator Requirements.
 8. Data and Analytics Requirements.
+9. Technology Strategy.
 
 ## Growth Documents
 
